@@ -1,0 +1,19 @@
+RAW DATASET FROM=https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/
+
+
+EXAMPLES OF SPAM MESSAGES:
+
+1) Get delivery updates on your USPS order [Number] here: [Link] 
+2) Congratulations! Your credit score entitles you to a no-interest Visa credit card. Click here to claim: [Link]
+3) Congratulations you won 1000 call on this number to get your reward
+4) Accident compensation.You have still not claimed the compensation you are due for accident you had.To start the process please reply Yes.To opt out text stop
+5) A [redacted] loan for $950 is approved for you if you receive this SMS. 1 min verification & cash in 1 hr at www.[redacted].co.uk to opt out reply stop
+6) You could be entitled upto $ 3160  in compensation  from mis-sold PPI on a credit-card or Loan.Please reply PPI for  for info or STOP to opt out.
+
+
+EXAMPLES OF HAM MESSAGES
+1)Did you see the match it was insane
+2)I am free today lets go out for a movie what do you say
+3)I love you do you love me
+4)
+5)
